@@ -1,12 +1,12 @@
 // import React from "react"
 // import workImg from "../assets/projetos/workImg.jpeg"
 // import realEstate from "../assets/projetos/realestate.jpg"
-import barberShop from "../assets/projetos/barbershop.jpg"
-import netflixClone from "../assets/projetos/netflixclone.jpg"
-import perfilGitHubApi from "../assets/projetos/perfilgithubapi.jpg"
-import clientsApi from "../assets/projetos/clientsapi.jpg"
-import letMeAsk from "../assets/projetos/letmeask.jpg"
-import igniteLab from "../assets/projetos/ignitelab.jpg"
+import barberShop from "../assets/projetos/barbershop.jpg";
+import netflixClone from "../assets/projetos/netflixclone.jpg";
+import perfilGitHubApi from "../assets/projetos/perfilgithubapi.jpg";
+import clientsApi from "../assets/projetos/clientsapi.jpg";
+import letMeAsk from "../assets/projetos/letmeask.jpg";
+import igniteLab from "../assets/projetos/ignitelab.jpg";
 
 const Portfolio = () => {
   return (
@@ -176,7 +176,7 @@ const Portfolio = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 hover:duration-200">
               <span className="text-2xl font-bold text-green-600 tracking-wider text-center ml-10">
-               Letme Ask
+                Letme Ask
                 <p className=" text-xs flex text-center">
                   React.js | Firebase | TypeScript
                 </p>
@@ -217,12 +217,17 @@ const Portfolio = () => {
                 </p>
               </span>
               <div className="pt-8 text-center">
-                <a href="https://ignite-lab-react-9lobinmgi-jonathasaroucha.vercel.app">
+                <a href="https://ignite-lab-react-9lobinmgi-jonathasaroucha.vercel.app" target="_blank"
+                  rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2  bg-green-600 text-white font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/JonathasAroucha/ignite-lab-react">
+                <a
+                  href="https://github.com/JonathasAroucha/ignite-lab-react"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2  bg-green-600 text-white font-bold text-lg">
                     Code
                   </button>
@@ -233,7 +238,7 @@ const Portfolio = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Portfolio
+export default Portfolio;
