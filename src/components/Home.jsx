@@ -17,7 +17,7 @@ const Home = () => {
        justify-center h-full px-4 md:flex-row"
       >
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-3xl sm:text-5xl md:text-7xl font-bold text-white">
             Front-End Developer
           </h2>
           <p className="text-white py-4 max-w-md">
@@ -43,7 +43,7 @@ const Home = () => {
           <img
             src={Me}
             alt="my profile"
-            className="rounded-full mx-auto wd:w-full"
+            className="rounded-full mx-auto w-3/4 md:w-full"
           />
         </div>
       </div>

@@ -21,7 +21,7 @@ const About = () => {
           </p>
           <p className="text-xl mt-5">
             I'm Front-End Jr Developer at Compass.UOL.
-            In the last year at Compass, I worked on ecommerce pages with ReactJS and OCC.
+            In the last year at Compass, I worked on ecommerce pages with ReactJS and Oracle Commerce.
             I love ReactJS, I want to grow and specialize in ReactJS. 
             My dream is to live and work in Portugal!
           </p>
