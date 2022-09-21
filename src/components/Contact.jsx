@@ -16,7 +16,7 @@ const Contact = () => {
 
         <div className="flex justify-center items-center">
           <form
-            action="https://getform.io/f/7ee8d29e-945c-4c67-ba82-527d93816efa"
+            action="https://getform.io/f/099a1eae-228b-4c7b-8a10-4ac3996d8700"
             method="POST"
             className="flex flex-col w-full md:w-1/2"
           >
@@ -47,7 +47,8 @@ const Contact = () => {
 
             <button
               className="text-white bg-gradient-to-b from-green-500 bg-green-600 
-            px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300"
+            px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300" target="_blank"
+            rel="noreferrer"
             >
               Lets talk
             </button>
