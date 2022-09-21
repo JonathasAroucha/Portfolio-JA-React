@@ -1,7 +1,6 @@
 import React from "react"
 
 import Me from "../assets/Me.png"
-import { MdOutlineKeyboardArrowRight } from "react-icons/md"
 
 import { Link } from "react-scroll"
 
@@ -33,9 +32,6 @@ const Home = () => {
             flex items-center rounded-md bg-gradient-to-r from-green-500 bg-green-600 cursor-pointer hover:scale-110 duration-300  "
             >
               Portfolio
-              <span className="groud-hover: rotate-90 duration-300 ">
-                <MdOutlineKeyboardArrowRight size={25} className />
-              </span>
             </Link>
           </div>
         </div>
