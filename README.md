@@ -8,7 +8,7 @@ Demo: https://perfilgithubapi-jonathasaroucha.netlify.app/
 
 #Screenshots of the Portfolio:
 
-![portfolio](https://user-images.githubusercontent.com/77129503/191631397-6725e606-d596-4ae7-87f7-bfe49fa83315.jpg)
+![portfolio](https://user-images.githubusercontent.com/77129503/191968886-a333dbd4-1146-494f-9933-eea1b17ebfaa.jpg)
 ![projects](https://user-images.githubusercontent.com/77129503/191631456-eb15706d-ddb9-4e03-986d-58be59b57fc3.jpg)
 ![techs](https://user-images.githubusercontent.com/77129503/191631475-c0dab1d6-c3b1-46ee-8abc-951d0b53c9f0.jpg)
 
