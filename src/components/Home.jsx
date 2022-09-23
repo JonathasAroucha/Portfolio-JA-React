@@ -1,6 +1,6 @@
 import React from "react"
 
-import Me from "../assets/Me.png"
+import Me from "../assets/Me.jpeg"
 
 import { Link } from "react-scroll"
 
@@ -39,7 +39,7 @@ const Home = () => {
           <img
             src={Me}
             alt="my profile"
-            className="rounded-full mx-auto w-3/4 md:w-full"
+            className="md:ml-4 md:mr-4 rounded-2xl mx-auto w-3/4 md:w-full"
           />
         </div>
       </div>
