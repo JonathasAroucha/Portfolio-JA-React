@@ -8,9 +8,10 @@ Demo: http://portfolio-ja-react.vercel.app/
 
 #Screenshots of the Portfolio:
 
-![portfolio](https://user-images.githubusercontent.com/77129503/191968886-a333dbd4-1146-494f-9933-eea1b17ebfaa.jpg)
-![projects](https://user-images.githubusercontent.com/77129503/191631456-eb15706d-ddb9-4e03-986d-58be59b57fc3.jpg)
-![techs](https://user-images.githubusercontent.com/77129503/191631475-c0dab1d6-c3b1-46ee-8abc-951d0b53c9f0.jpg)
+![Portfolio](https://user-images.githubusercontent.com/77129503/231280418-56d9c81b-cb1b-45d1-bdde-c103c64920ce.png)
+![Portfolio2](https://user-images.githubusercontent.com/77129503/231280421-73a485c6-0413-47df-bbf2-b2ad27d3fd3b.png)
+![Portfolio3](https://user-images.githubusercontent.com/77129503/231280424-1a0a9d85-9274-4a3a-8d39-48812f715784.png)
+![Portfolio4](https://user-images.githubusercontent.com/77129503/231280425-82dee9c0-aff8-4107-b93b-eb5561a8020a.png)
 
 
 📚 Technologies used on this page:
