@@ -20,10 +20,7 @@ const About = () => {
             I'm Jonathas Aroucha, I from Brazil in Recife/PE. 
           </p>
           <p className="text-xl mt-5">
-            I'm Front-End Jr Developer at Compass.UOL.
-            In the last year at Compass, I worked on ecommerce pages with ReactJS and Oracle Commerce.
-            I love ReactJS, I want to grow and specialize in ReactJS. 
-            My dream is to live and work in Portugal!
+            Hello, I'm a React Developer with experience in international projects and a focus on ecommerce with Oracle and ReactJS. I have a passion for challenges and continuous learning. My international experience has made me more flexible and adaptable, able to handle challenges of different natures. If you're looking for a React developer with ecommerce experience and a constant learning mindset, let's talk.
           </p>
         </div>
 
