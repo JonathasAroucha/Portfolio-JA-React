@@ -20,7 +20,7 @@ const Home = () => {
             Front-End Developer
           </h2>
           <p className="text-white py-4 max-w-md">
-            I'm Front-End Developer at Compass.UOL.
+          I'm Front-End Developer and future Full-Stack Developer.
           </p>
 
           <div>
